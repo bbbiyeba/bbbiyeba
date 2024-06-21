@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a project involving AI.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on projects.
-- 📫 How to reach me: bryce15buma@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy reading novels.
+- 🔭 I’m currently working on a project **involving AI.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 👯 I’m looking to collaborate on **projects.**
+- 📫 How to reach me: **bryce15buma@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I enjoy reading novels, playing soccer and watching sports.**
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_jugginbryce/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bryce-biyeba) 
