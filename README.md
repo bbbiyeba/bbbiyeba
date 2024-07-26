@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a project **involving AI.**
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures & Algorithms and React.js. **
 - 👯 I’m looking to collaborate on **projects.**
 - 📫 How to reach me: **bryce15buma@gmail.com**
 - 😄 Pronouns: **He/Him**
