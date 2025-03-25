@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a project **involving AI.**
-- 🌱 I’m currently learning **Data Structures & Algorithms and React.js.**
+- 🌱 I’m currently learning **C and Assembly.**
 - 👯 I’m looking to collaborate on **projects.**
-- 📫 How to reach me: **bryce15buma@gmail.com**
+- 📫 How to reach me: **bbbiyeba@terpmail.umd.edu**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy reading novels, playing soccer and watching sports.**
 
