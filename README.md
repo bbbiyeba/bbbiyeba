@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a project **involving AI.**
-- 🌱 I’m currently learning **C and Assembly.**
-- 👯 I’m looking to collaborate on **projects.**
-- 📫 How to reach me: **bbbiyeba@terpmail.umd.edu**
+- 🔭 I’m currently working on a project **involving Mobile Development.**
+- 🌱 I’m currently learning **Mobile Development.**
+- 👯 I’m looking to collaborate on **projects/ideas**
+- 📫 How to reach me: **bryce15buma@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy reading novels, playing soccer and watching sports.**
 
