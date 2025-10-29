@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a project involving **Workforce Planning & Org Design.**
-- 🌱 I’m currently learning **how to compare various metrics as an analyst.**
+- 🌱 I’m currently learning **OCaml, Rust and Ruby.**
 - 👯 I’m looking to collaborate on **projects/ideas**
 - 📫 How to reach me: **bryce15buma@gmail.com**
 - 😄 Pronouns: **He/Him**
