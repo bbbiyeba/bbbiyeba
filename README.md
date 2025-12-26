@@ -3,7 +3,8 @@
 - 📫 How to reach me: **bryce15buma@gmail.com**
 
 ## About me:
-Junior at UMD studying CS + BS.
+Junior at UMD studying CS + BS
+
 Internship experiences in: SWE, AI, Data
 
 
