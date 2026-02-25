@@ -4,6 +4,7 @@
 
 ## About me:
 Junior at UMD studying CS + BS
+Curr @ HandShake AI (Project HedgeHog and Project Helix)
 
 Internship experiences in: SWE, AI, Data
 
