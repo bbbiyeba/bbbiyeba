@@ -3,12 +3,10 @@
 - 📫 How to reach me: **bryce15buma@gmail.com**
 
 ## About me:
-Junior at UMD studying CS + BS
+Senior at the University of Maryland, College Park studying Computer Science + Business
 
-Curr @ HandShake AI
-
-Internship experiences in: SWE, AI, Data
-
+Incoming SysDe Co-Op @ GE Aerospace
+Previously: Amazon, Capital One, Handshake AI, Paragon One
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bbbiyeba&icon=0&color=0)](https://visitcount.itsvg.in)
