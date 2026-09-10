@@ -4,7 +4,6 @@
 
 ## About me:
 - Undergrad at the University of Maryland, College Park studying Computer Science + Business
-- Born in Bamenda, Cameroon
 
 ## Experiences:
 - Incoming SysDe Co-Op @ GE Aerospace
