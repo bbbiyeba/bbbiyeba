@@ -3,10 +3,12 @@
 - 📫 How to reach me: **bryce15buma@gmail.com**
 
 ## About me:
-Senior at the University of Maryland, College Park studying Computer Science + Business
+- Undegrad at the University of Maryland, College Park studying Computer Science + Business
+- Born in Bamenda, Cameroon
 
-Incoming SysDe Co-Op @ GE Aerospace
-Previously: Amazon, Capital One, Handshake AI, Paragon One
+## Experiences:
+- Incoming SysDe Co-Op @ GE Aerospace
+- Previously: Amazon, Capital One, Lockheed Martin, Handshake AI, Paragon One
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bbbiyeba&icon=0&color=0)](https://visitcount.itsvg.in)
