@@ -10,5 +10,8 @@
 - Incoming SysDe Co-Op @ GE Aerospace
 - Previously: Amazon, Capital One, Lockheed Martin, Handshake AI, Paragon One
 
+## Current:
+- Working on AgentBridge - A local multi-agent orchestration tool. Multiple AI agents take turns working on a shared codebase without you copy/pasting/typing between them.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=bbbiyeba&icon=0&color=0)](https://visitcount.itsvg.in)
