@@ -7,7 +7,7 @@
 - Interests: Applied AI, Infrastructure, Distributed Systems, Data Science/Engineering
 
 ## Experiences:
-- Incoming SysDe Co-Op @ GE Aerospace
+- Incoming: SysDe Co-Op @ GE Aerospace
 - Previously: Amazon, Capital One, Lockheed Martin, Handshake AI, Paragon One
 
 ## Current:
